@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "讨论班与教学"
+permalink: /talks/
+author_profile: true
+---
+
+{% if site.talks.size == 0 %}
+  <p>暂无内容。</p>
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
