@@ -23,7 +23,7 @@ repository               : "lanyu-07/lanyu-07.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "avatar.png"
   name             : "学不懂光的阑雨"
   pronouns         : # example: "she/her"  
   bio              : "光电信息科学与工程"
